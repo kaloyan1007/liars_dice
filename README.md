@@ -3,7 +3,7 @@
 #### Description:
 ##### In summary
 This is my rendition of the popular dice game "Liar's dice".
-The game written in Python, and is played at the command-line. It allows one user to play a game against up to 4 bots.
+The game is written in Python, and is played at the command-line. It allows one user to play a game against up to 4 bots.
 
 The game is implemented in `project.py` and it uses classes, defined in `liarsdice.py`.
 
